@@ -68,7 +68,7 @@ Homeworks are to be completed individually.
 As many of the homeworks are foundational, it is not appropriate (and is an Honor Code violation) to simply search for solutions online.
 Instead, the appropriate online resources will be posted along with the description and grading criteria of each assignment on Moodle.
 
-Coding-based homeworks will be distributed through GitHub.
+Coding-based homeworks will be distributed through GitHub and will be due on Moodle.
 
 Unless otherwise specified, homeworks are due at the start of class on the day that they are assigned and late homeworks will be penalized 10% for each 24 past the due date and time. (E.g., an assignment due at 2:30pm Thursday turned in from 2:31 Thursday-2:29pm Friday would be penalized 10%, turned in 2:30pm Friday-2:29pm Saturday 20%, etc.)
 
